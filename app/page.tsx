@@ -1,3 +1,5 @@
+'use client'
+
 import React, { useState, useEffect, useRef } from 'react';
 import { AlertTriangle, Hammer, Lock, Zap, Terminal, Loader2, Database, Cloud, Globe } from 'lucide-react';
 import Image from 'next/image'
