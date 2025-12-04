@@ -1,4 +1,4 @@
-'use client'
+'use client '
 
 import React, { useState, useEffect, useRef } from 'react';
 import { AlertTriangle, Hammer, Lock, Zap, Terminal, Loader2, Database, Cloud, Globe } from 'lucide-react';
@@ -211,7 +211,7 @@ export default function App() {
             
             {/* SVG Logo Placeholder */}
             <div className="relative w-24 h-24 md:w-32 md:h-32">
-               <Image src="/logo.svg" width={"100"} height={"100"} alt="Shocked Future Logo" />
+               <Image src="/logo.svg" width={"527"} height={"93"} alt="Shocked Future Logo" />
             </div>
           </div>
           
